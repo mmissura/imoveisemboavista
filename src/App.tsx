@@ -16,7 +16,7 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 1
+              Imobiliária RL Imóveis
             </a>
             {/* Sua imobiliária aqui */}
           </div>
@@ -25,7 +25,7 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 2
+              Imobiliária Capital imóveis
             </a>
             {/* Sua imobiliária aqui */}
           </div>
@@ -34,7 +34,7 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 3
+              Imobiliária Smart
             </a>
             {/* Sua imobiliária aqui */}
           </div>
@@ -43,7 +43,7 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 4
+              Imobiliária Gabriel Alessander
             </a>
             {/* Sua imobiliária aqui */}
           </div>
